@@ -18,4 +18,5 @@ az deployment group create \  --resource-group MyResourceGroup \  --template-fil
 
 ## Diagram
 See `deployment-diagram.png` for a comparison between VMApplications and Custom Script Extension.
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/095aee66-aad0-493c-ad11-767cc065cb88" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/12ede560-21ac-463d-8607-2dc3bac82fea" />
+
